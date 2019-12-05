@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/Storyline/Comeco.rpy", line 48: choice menuitem expects a non-empty block.
+    "o cavalo é gay":
+                     ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Tue Dec 03 21:47:52 2019
