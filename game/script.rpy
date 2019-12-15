@@ -136,6 +136,7 @@ screen murderboard():
 # Inicio da historia
 label start:
     # toca a musica
-    play music "<from 23 to 30>audio/vaco.mp3"
+    # play music "audio/vaco.mp3"
+    # play music "<from 23 to 30>audio/vaco.mp3"
     # chamar o metodo "inicio"
     jump inicio
